@@ -1,0 +1,9 @@
+patch:
+
+    # 方案列表
+    schema_list:
+        - schema: clover
+
+    # 菜单
+    menu:
+        page_size: 6  # 候选词个数
